@@ -32,7 +32,7 @@ Participants using CGM would receive standardized representations of the same gl
 - haptic feedback
 - no-feedback control
 
-Acute responses would be measured using **EEG**, **EDA**, **HRV**, and potentially pupil dilation or respiration, alongside CGM trajectories and behavioral measures such as perceived urgency, checking behavior, and correction intent.
+Acute responses would be measured using **EEG**, **EDA**, **HRV**, and potentially pupil dilation or respiration, alongside CGM trajectories and behavioral measures such as perceived urgency, checking behavior, and correction intent. **fMRI** could be used in an extended study to localize representation-dependent responses in brain regions involved in salience, interoception, autonomic regulation, and decision-making, while EEG provides a more practical measure of rapid stimulus-locked neural responses for the initial study.
 
 ## Feasibility
 The project can begin with a compact experimental study using existing CGM systems, wearable physiological sensors, and relatively simple custom feedback interfaces. The initial aim is not to demonstrate long-term glycemic improvement, but to establish whether **representation alone produces measurable differences in neural and autonomic response**.
