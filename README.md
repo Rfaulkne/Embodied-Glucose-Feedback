@@ -37,3 +37,8 @@ The project can begin with a compact experimental study using existing CGM syste
 The work could establish a new way of thinking about health interfaces: not simply as displays of physiology, but as components within a **closed human physiological feedback loop**.
 
 Beyond diabetes, the concept could extend to heart rate, HRV, blood pressure, sleep, stress, SpO₂, pain, and other continuously monitored health metrics.
+
+
+## Documentation
+
+- [Research publications and literature map](docs/research.md)
