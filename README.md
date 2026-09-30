@@ -3,6 +3,10 @@
 ## Research question
 **Does the way we perceive physiological data become part of the physiology it describes?**
 
+**Can different representations of identical CGM information produce measurably different neural and autonomic responses?**
+
+**Primary measures:** EEG + EDA + HRV
+
 This project investigates whether different sensory representations of continuous glucose monitoring (CGM) data alter neural, autonomic, behavioral, and ultimately metabolic responses.
 
 ## Concept
@@ -37,7 +41,6 @@ The project can begin with a compact experimental study using existing CGM syste
 The work could establish a new way of thinking about health interfaces: not simply as displays of physiology, but as components within a **closed human physiological feedback loop**.
 
 Beyond diabetes, the concept could extend to heart rate, HRV, blood pressure, sleep, stress, SpO₂, pain, and other continuously monitored health metrics.
-
 
 ## Documentation
 
