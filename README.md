@@ -42,6 +42,10 @@ The work could establish a new way of thinking about health interfaces: not simp
 
 Beyond diabetes, the concept could extend to heart rate, HRV, blood pressure, sleep, stress, SpO₂, pain, and other continuously monitored health metrics.
 
+## Catch phrases
+
+> Health data is not neutral once it enters perception. Its form can shape its meaning, and its meaning may shape physiology.
+
 ## Documentation
 
 - [Research publications and literature map](docs/research.md)
