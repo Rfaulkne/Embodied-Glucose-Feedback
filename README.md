@@ -48,4 +48,5 @@ Beyond diabetes, the concept could extend to heart rate, HRV, blood pressure, sl
 
 ## Documentation
 
+- [Grassroots proposal](docs/grassroots-proposal.md)
 - [Research publications and literature map](docs/research.md)
