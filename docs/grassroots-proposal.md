@@ -17,17 +17,27 @@ The project is intentionally interdisciplinary, connecting **interaction design,
 
 ## Project topic
 
-Continuous glucose monitoring (CGM) transforms an invisible metabolic process into continuously available information. Yet health data is not neutral once it enters perception: **its form can shape its meaning, and its meaning may shape physiology.**
+Health metrics are increasingly presented continuously through wearables and digital interfaces. These measurements are often treated as neutral information, yet the **way physiological data is represented may change how it is perceived, interpreted, and acted upon — and may also influence neural and autonomic state**.
 
-This project asks:
+Continuous glucose monitoring (CGM) provides an especially useful model system because it transforms an otherwise largely invisible physiological process into continuous, personally meaningful feedback.
+
+The central research question is:
 
 > **Can different representations of identical CGM information produce measurably different neural and autonomic responses?**
 
-The same underlying glucose state can be represented as a number, trend arrow, coloured warning, graph, abstract visual form, haptic signal or ambient cue. Although the information may be equivalent, its perceptual and emotional meaning may not be.
+CGM is therefore the **primary experimental case**, while the broader scientific question is:
 
-The project treats **data representation itself as an experimental variable**.
+> **How does the representation of health data influence the psychology and physiology of the person receiving it?**
 
----
+The project examines whether health data should be understood not only as a measurement output, but as part of a feedback loop:
+
+**physiology → sensing → data representation → perception → neural/autonomic response → behaviour → physiology**
+
+A numerical value, graph, colour-coded warning, abstract visualisation or haptic cue may communicate the same underlying state, but may not produce the same experience.
+
+The project therefore investigates whether the **form of health information itself becomes physiologically relevant once it enters perception**.
+
+CGM is particularly well suited to this because glucose is continuously measured, personally meaningful, behaviourally actionable, and easily represented in multiple formats. This makes it a focused experimental model through which to study a broader phenomenon relevant to digital health and wearable technologies.
 
 ## Objectives
 
@@ -92,7 +102,11 @@ The project could establish a new way of evaluating health interfaces: not only 
 
 The findings could inform the design of future CGM interfaces that communicate necessary information while controlling unnecessary salience, cognitive load or autonomic reactivity.
 
-More broadly, the concept could extend beyond glucose to:
+More broadly, the project positions CGM as a model system for a general question in digital health:
+
+> **How do health-data interfaces shape the experience of the body they describe?**
+
+The same principles could extend to:
 
 - heart rate / HRV
 - blood pressure
@@ -100,13 +114,11 @@ More broadly, the concept could extend beyond glucose to:
 - stress scores
 - SpO₂
 - pain
-- other continuous or wearable health data
+- recovery/readiness scores
 
-The longer-term question is:
+The longer-term objective is to understand whether better-designed health-data representations can preserve useful awareness while reducing unnecessary cognitive or physiological reactivity.
 
-> **When we make the invisible body visible, how does that change the body we are observing?**
-
----
+> **Health data is not neutral once it enters perception. Its form can shape its meaning, and its meaning may shape physiology.**
 
 ## Relevance to the Grassroots program
 
